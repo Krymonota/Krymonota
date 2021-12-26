@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I’m Niklas! 🐻</h1>
-<h3 align="center">Student of Computer Science and Media at Stuttgart Media University.<br>Self-Employed Software and Web Developer.</h3>
+<h1 align="center">👋 Hi there, I’m Niklas!</h1>
+<h3 align="center">Web Developer for E-Commerce, Marketplace and Payment Solutions.<br>Student of Computer Science and Media at Stuttgart Media University.</h3>
 
 <p align="center">
-    I currently operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>.
+    I currently operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>,<br> and work as a web developer for payment solutions at <a href="https://shopping.check24.de">CHECK24 Shopping</a>.
 </p>
 
 <p align="center">
