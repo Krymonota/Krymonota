@@ -15,7 +15,7 @@
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats-krymonota.vercel.app/api?username=krymonota&show_icons=true&count_private=true&hide_title=true" alt="Krymonota's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats-krymonota.vercel.app/api?username=krymonota&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="Krymonota's GitHub Stats" />
 </p>
 
 <p align="center">
