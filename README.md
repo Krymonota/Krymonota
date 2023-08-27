@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi there, I’m Niklas!</h1>
-<h3 align="center">Web Developer for E-Commerce, Marketplace and Payment Solutions.<br>Student of Computer Science and Media at Stuttgart Media University.</h3>
+<h1 align="center">👋 Hi there, I’m Niklas from Munich!</h1>
+<h3 align="center">Full-Stack Software Engineer, Project Manager and Entrepreneur</h3>
 
 <p align="center">
-    I currently operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>,<br> and work as a web developer for payment solutions at <a href="https://shopping.check24.de">CHECK24 Shopping</a>.
+    I currently operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>,<br> and work as a full-stack software developer at <a href="https://check24.de">CHECK24</a> Autoteile.
 </p>
 
 <p align="center">
