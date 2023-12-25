@@ -15,11 +15,19 @@
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-    [![Niklas' GitHub Statistics](https://github-readme-stats-krymonota.vercel.app/api?username=Krymonota&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Krymonota/github-readme-stats#gh-dark-mode-only)
-[![Niklas' GitHub Statistics](https://github-readme-stats-krymonota.vercel.app/api?username=Krymonota&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Krymonota/github-readme-stats#gh-light-mode-only)
+    <a href="https://github.com/Krymonota/#gh-dark-mode-only" alt="Niklas' Statistics at GitHub">
+        <img align="center" src="https://github-readme-stats-krymonota.vercel.app/api?username=Krymonota&show_icons=true&theme=dark#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/Krymonota/#gh-light-mode-only" alt="Niklas' Statistics at GitHub">
+        <img align="center" src="https://github-readme-stats-krymonota.vercel.app/api?username=Krymonota&show_icons=true&theme=default#gh-light-mode-only" />
+    </a>
 </p>
 
 <p align="center">
-        [![Niklas' GitHub Top Languages](https://github-readme-stats-krymonota.vercel.app/api/top-langs/?username=Krymonota&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/Krymonota/github-readme-stats#gh-dark-mode-only)
-[![Niklas' GitHub Top Languages](https://github-readme-stats-krymonota.vercel.app/api/top-langs/?username=Krymonota&layout=pie&theme=default#gh-light-mode-only)](https://github.com/Krymonota/github-readme-stats#gh-light-mode-only)
+    <a href="https://github.com/Krymonota/#gh-dark-mode-only" alt="Niklas' Top Languages at GitHub">
+        <img align="center" src="https://github-readme-stats-krymonota.vercel.app/api/top-langs/?username=Krymonota&layout=pie&theme=dark#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/Krymonota/#gh-light-mode-only" alt="Niklas' Top Languages at GitHub">
+        <img align="center" src="https://github-readme-stats-krymonota.vercel.app/api/top-langs/?username=Krymonota&layout=pie&theme=default#gh-light-mode-only" />
+    </a>
 </p>
