@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I’m Niklas from Munich!</h1>
-<h3 align="center">Tech Leader and Entrepreneur crafting dynamic e-commerce solutions that leverage community-driven growth 🌟</h3>
+<h3 align="center">Tech Lead and Founder crafting digital platforms that leverage community-led growth 🌟</h3>
 
 <p align="center">
     I operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>,<br> and work as a software engineer for <a href="https://aurumcars.de">AurumCars</a> (a CHECK24 company).
