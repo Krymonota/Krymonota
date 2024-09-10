@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I’m Niklas from Munich!</h1>
-<h3 align="center">Founder and Tech Lead</h3>
+<h3 align="center">Founder and Full-Stack Software Engineer</h3>
 
 <p align="center">
     I operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>,<br> and work as a software engineer for <a href="https://aurumcars.de">AurumCars</a> (a CHECK24 company).
@@ -7,7 +7,7 @@
 
 <hr>
 
-<h3 align="center">Statistics</h3>
+<h3 align="center">My GitHub Statistics</h3>
 
 <p align="center">
     <a href="https://github.com/Krymonota/#gh-dark-mode-only" alt="Niklas' Statistics at GitHub">
