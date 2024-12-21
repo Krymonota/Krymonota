@@ -2,7 +2,7 @@
 <h3 align="center">Founder and Full-Stack Software Engineer</h3>
 
 <p align="center">
-    I operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>,<br> and work as a software engineer for <a href="https://aurumcars.de">AurumCars</a> (a CHECK24 company).
+    I operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>.
 </p>
 
 <hr>
