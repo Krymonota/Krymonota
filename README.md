@@ -5,6 +5,10 @@
     I operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>.
 </p>
 
+<p align="center">
+    Check out <a href="https://setupmc.com">setupmc.com</a> to interactively generate a Docker Compose file to run your own customized Minecraft server!
+</p>
+
 <hr>
 
 <h3 align="center">My GitHub Statistics</h3>
