@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I’m Niklas from Munich!</h1>
-<h3 align="center">Founder and Full-Stack Software Engineer</h3>
+<h3 align="center">Full-Stack Software and DevOps Engineer</h3>
 
 <p align="center">
     I operate <a href="https://krymo.software">Krymo Software</a>, a manufacturer of software products for <a href="https://viecode.com">VieCode Shop</a> and <a href="https://www.woltlab.com">WoltLab Suite™</a>.
