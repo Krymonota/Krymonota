@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+    I also own and develop <a href="https://sparkane.com">Sparkane</a>, a Minecraft Java Network with 1.8-Style Combat on recent Minecraft versions.
+</p>
+
+<p align="center">
     Check out <a href="https://setupmc.com">setupmc.com</a> to interactively generate a Docker Compose file to run your own customized Minecraft server!
 </p>
 
